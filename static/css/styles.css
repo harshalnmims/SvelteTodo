@@ -1,0 +1,39 @@
+*{
+    body:0;
+    padding:0;
+}
+p{
+    color: white;
+    font-size:18px;
+    font-weight: bold;
+}
+
+body { 
+    background-color: whitesmoke;
+}
+
+li{
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    list-style-type: none;
+}
+
+header{
+    background-color: orangered;
+    padding:5px;
+}
+ul {
+    display: flex;
+    justify-content: center;
+    gap:13%;
+    font-size: 30px;
+}
+#listItem{
+    font-size: 30px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
